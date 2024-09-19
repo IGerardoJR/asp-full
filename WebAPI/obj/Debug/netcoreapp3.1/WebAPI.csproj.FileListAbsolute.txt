@@ -82,5 +82,7 @@ D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\
 D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.dll
 D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.pdb
 D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.genruntimeconfig.cache
-D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
-D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.dll
+D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\bin\Debug\netcoreapp3.1\Seguridad.pdb
+D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.AssemblyReference.cache
+D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.Up2Date

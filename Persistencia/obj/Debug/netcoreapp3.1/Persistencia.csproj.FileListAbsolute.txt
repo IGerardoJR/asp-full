@@ -11,5 +11,5 @@ D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Persistencia\obj\Debug\netcorea
 D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
 D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
 D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache
-D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csprojAssemblyReference.cache
-D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Persistencia\obj\Debug\netcoreapp3.1\Persiste.7F7D6998.Up2Date

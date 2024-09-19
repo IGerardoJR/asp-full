@@ -6,4 +6,4 @@ D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1
 D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
 D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
 D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
-D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csprojAssemblyReference.cache
+D:\dev\net\AspReact\SegundoProyecto\ProyectoCore\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
